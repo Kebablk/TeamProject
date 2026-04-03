@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.page1 {
+  width: 100%;
+  height: 80dvh;
+  background-image: url(17818.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  font-size: 72px;
+  position: absolute;
+  top: 20%;
+  left: 5%;
+}
+
+span {
+  text-transform: uppercase;
+}
+
+.medicina {
+  color: steelblue;
+}
+
+.opit {
+  font-size: 32px;
+  position: absolute;
+  top: 40%;
+  left: 5%;
+}
+
+.btn {
+  width: 15%;
+  height: 5vh;
+  border: none;
+  outline: none;
+  color: white;
+  border-radius: 20px;
+  background-color: steelblue;
+  position: absolute;
+  left: 5%;
+  top: 50%;
+}
